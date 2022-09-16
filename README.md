@@ -4,5 +4,5 @@ This is a simple 3-tier architecture full-stack application, that includes a fro
 MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack. The application allows user to make posts about their favourite movies and why they like them.
 
 
-##Author
+## Author
 Apurva Acharya
